@@ -109,12 +109,19 @@ const CREATORS = [
     color: "#8b5cf6"
   },
   {
+    name: 'DARSHAN',
+    ig: "https://www.instagram.com/z__w__p_official/",
+    gh: "https://github.com/darshan3187",
+    handle: "@darshan_rajgor",
+    color: "#d93c39"
+  },
+  {
     name: "SMIT",
     ig: "https://www.instagram.com/sutariya_smit_/",
     gh: "https://github.com/PRINCESTR",
     handle: "@sutariya_smit_",
     color: "#00e5ff"
-  },
+  }
 ];
 
 // ── Ticker ────────────────────────────────────────────────────────────────────
